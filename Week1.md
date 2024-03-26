@@ -19,4 +19,6 @@ git commit -m "commit message"
 commit message : 내가 저장할 파일에 대한 간단한 설명    
 
 6.git에 파일 올리기  
-git push -u origin main 내 브랜치에서 main으로 파일을 push하라  p
+git push -u origin main 내 브랜치에서 main으로 파일을 push하라  
+  
+https://github.com/Ksi4235/ksi4235
